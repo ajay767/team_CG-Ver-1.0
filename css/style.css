@@ -1,0 +1,169 @@
+@media (max-width:450px) 
+{
+    @import url('https://fonts.googleapis.com/css?family=Baloo+Da+2|Noto+Sans+KR:500&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Baloo Da 2', cursive;
+
+}
+
+header{
+    background-color: #feb72b;
+    display: flex;
+}
+.logo{
+    padding-bottom: 2px;
+    margin-top: 5px;
+    margin-left: 6px;
+    margin-right: auto;
+    color: #21243d;
+}
+.nav_button{
+    margin-left: auto;
+    float: left;
+    margin-top: 10px;
+    margin-right: 5px;
+    
+}
+nav{
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+h4{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.nav_button button{
+    border-radius: 3px;
+    height: 27px;
+    margin-bottom: 9px;
+    width: 73px;    
+    border: none;
+
+    background-color: #527318;
+}
+
+    
+   
+
+.centre{
+   margin-bottom: 20px;
+    margin-top: 20px;
+}
+.centre h4{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.centre p{
+    margin-bottom: 10px;
+}
+
+
+.centre_button{
+    width: 70px;
+    height: 30px;
+border: none;
+font-size: 15px;
+color: snow;
+border-radius: 2px;
+    background-color: slateblue;
+    margin: 10px 20px;
+}
+
+hr{
+    
+    width: 50px;
+    color: red;
+    border: none;
+   
+    border-bottom: 5px dotted red;
+}
+
+.login_box{
+   
+    box-sizing: border-box;
+   
+    width: 68%;
+    height: 192px;
+    border-radius: 4px;
+
+}
+.login_box_inputs{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid brown;
+    width: 200px;
+    margin-bottom: 8px;
+  }
+.login_button{
+    border-radius: 3px;
+    height: 30px;
+    width: 73px;    
+    border: none;
+
+    background-color: #527318;
+}
+
+
+
+
+
+
+
+
+
+
+.contact_section{
+    background-color: #feb72b;
+}
+
+.contact_logo{
+    color: black;
+    margin: 5px 10px;
+}
+
+
+
+}
+
+.link_mid center{
+   display: flex;
+   flex-direction: row;
+   width: 375px;
+text-align: center;
+margin: auto;
+}
+.link_mid center div i{
+    color: red;
+}
+
+
+
+
+.link_mid center div{
+    margin: 20px 10px;
+    width: 150px;
+}
+
+.fas{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
